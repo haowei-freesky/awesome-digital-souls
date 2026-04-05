@@ -17,6 +17,7 @@
   - [学术合集](#学术合集)
   - [蒸馏防御](#蒸馏防御)
 - [How To Contribute](#how-to-contribute)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 ## What Is This 🧠
@@ -235,6 +236,11 @@
 ```md
 | `skill-name` | 角色定位 | 适用场景 | 核心能力 |
 ```
+
+## Acknowledgements 🙏
+
+鸣谢所有提供这些开源 skills 的作者，尤其鸣谢开山鼻祖 [colleague-skill](https://github.com/titanwings/colleague-skill) 的作者。正是这些项目，让 `digital souls` 和 `skills distillation` 不只是一个概念，而是变成了可以被看见、被体验、被继续扩写的开源现场。
+
 
 ## License 📄
 

@@ -19,6 +19,7 @@ If humanity has already reached the stage of "digital immortality," then maybe m
 - [Skill Template](#skill-template-)
 - [How To Contribute](#how-to-contribute-)
 - [Roadmap](#roadmap)
+- [Acknowledgements](#acknowledgements-)
 - [License](#license-)
 
 ## What Is This 🧠
@@ -93,6 +94,12 @@ Suggested submission format:
 ```md
 | `skill-name` | Role | Use Cases | Core Capabilities |
 ```
+
+## Acknowledgements 🙏
+
+Thanks to all the authors who shared these open-source skills. Their projects make `digital souls` and `skills distillation` more than abstract ideas: they turn them into something visible, explorable, and extensible in the open-source world.
+
+Special thanks to the author of the pioneering [colleague-skill](https://github.com/titanwings/colleague-skill), and to every creator whose project is included in this repository.
 
 ## License 📄
 
