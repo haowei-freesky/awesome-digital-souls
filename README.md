@@ -46,7 +46,7 @@
 
 <table>
   <colgroup>
-    <col width="24%">
+    <col width="28%">
     <col>
     <col>
     <col>
@@ -79,7 +79,7 @@
 
 <table>
   <colgroup>
-    <col width="24%">
+    <col width="28%">
     <col>
     <col>
     <col>
@@ -124,7 +124,7 @@
 
 <table>
   <colgroup>
-    <col width="24%">
+    <col width="28%">
     <col>
     <col>
     <col>
@@ -151,7 +151,7 @@
 
 <table>
   <colgroup>
-    <col width="24%">
+    <col width="28%">
     <col>
     <col>
     <col>
@@ -184,7 +184,7 @@
 
 <table>
   <colgroup>
-    <col width="24%">
+    <col width="28%">
     <col>
     <col>
     <col>
