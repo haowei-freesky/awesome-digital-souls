@@ -46,37 +46,37 @@
 
 | Skill | 角色定位 | 适用场景 | 核心能力 |
 | --- | --- | --- | --- |
-| [`同事.skill`](https://github.com/titanwings/colleague-skill) | 全系列开山鼻祖，办公室搭子 | 日常沟通、写周报、会议复盘、情绪缓冲 | 帮你润色消息、梳理任务、补全上下文、模拟同事视角 |
-| [`老板.skill`](https://github.com/nicepkg/boss-skill)<br/>[`老板.skill` by `vogtsw`](https://github.com/vogtsw/boss-skills) | 上级视角模拟器 | 向上汇报、晋升答辩、加薪沟通、PUA 识别 | 目标压测、表达纠偏、汇报打磨、风险提醒 |
+| [`同事`](https://github.com/titanwings/colleague-skill) | 全系列开山鼻祖，办公室搭子 | 日常沟通、写周报、会议复盘、情绪缓冲 | 帮你润色消息、梳理任务、补全上下文、模拟同事视角 |
+| [`老板`](https://github.com/nicepkg/boss-skill)<br/>[`老板` by `vogtsw`](https://github.com/vogtsw/boss-skills) | 上级视角模拟器 | 向上汇报、晋升答辩、加薪沟通、PUA 识别 | 目标压测、表达纠偏、汇报打磨、风险提醒 |
 
 ### 感情合集 ❤️
 
 | Skill | 角色定位 | 适用场景 | 核心能力 |
 | --- | --- | --- | --- |
-| [`前任.skill`](https://github.com/titanwings/ex-skill) | 个人回忆与情感疗愈代理 | 关系复盘、告别对话、情绪梳理、回忆归档 | 生成对话、整理记忆片段、辅助表达遗憾与和解 |
-| [`暗恋对象.skill`](https://github.com/xiaoheizi8/crush-skills) | 朦胧关系投射与情绪代偿对象 | 心动模拟、自我练习、未说出口的话、关系想象 | 承接暧昧情绪、生成对话片段、辅助整理喜欢与遗憾 |
-| [`父母.skill`](https://github.com/xiaoheizi8/parents-skills) | 家庭关系记忆与情感支持代理 | 亲情对话、代际理解、情绪安抚、家庭回忆整理 | 模拟父母式回应、辅助表达牵挂、沉淀家庭经验与相处方式 |
-| [`妈妈.skill`](https://github.com/jiangziyan-693/MamaSkill) | 更具象的母亲角色陪伴代理 | 日常倾诉、情绪安慰、生活提醒、母女母子式对话 | 模拟妈妈式表达、提供安抚与照料感、承接日常情绪需求 |
+| [`前任`](https://github.com/titanwings/ex-skill) | 个人回忆与情感疗愈代理 | 关系复盘、告别对话、情绪梳理、回忆归档 | 生成对话、整理记忆片段、辅助表达遗憾与和解 |
+| [`暗恋对象`](https://github.com/xiaoheizi8/crush-skills) | 朦胧关系投射与情绪代偿对象 | 心动模拟、自我练习、未说出口的话、关系想象 | 承接暧昧情绪、生成对话片段、辅助整理喜欢与遗憾 |
+| [`父母`](https://github.com/xiaoheizi8/parents-skills) | 家庭关系记忆与情感支持代理 | 亲情对话、代际理解、情绪安抚、家庭回忆整理 | 模拟父母式回应、辅助表达牵挂、沉淀家庭经验与相处方式 |
+| [`妈妈`](https://github.com/jiangziyan-693/MamaSkill) | 更具象的母亲角色陪伴代理 | 日常倾诉、情绪安慰、生活提醒、母女母子式对话 | 模拟妈妈式表达、提供安抚与照料感、承接日常情绪需求 |
 
 ### 自我对话 🪞
 
 | Skill | 角色定位 | 适用场景 | 核心能力 |
 | --- | --- | --- | --- |
-| [`自己.skills`](https://github.com/notdog1998/yourself-skill) | 面向自我反思的内在对话代理 | 自我复盘、情绪整理、价值观澄清、深夜独处 | 模拟自我对话、辅助梳理念头、沉淀个人经验与表达 |
+| [`自己`](https://github.com/notdog1998/yourself-skill) | 面向自我反思的内在对话代理 | 自我复盘、情绪整理、价值观澄清、深夜独处 | 模拟自我对话、辅助梳理念头、沉淀个人经验与表达 |
 
 ### 学术合集 🎓
 
 | Skill | 角色定位 | 适用场景 | 核心能力 |
 | --- | --- | --- | --- |
-| [`导师.skill`](https://github.com/ybq22/supervisor) | 师生沟通辅助代理 | 开题汇报、论文反馈、方向讨论、邮件往来 | 研究问题澄清、汇报结构优化、沟通语气调整 |
-| [`师兄.skill`](https://github.com/zhanghaichao520/senpai-skill) | 已毕业但灵魂仍在的救火型角色 | 环境配置、实验复现、截稿求助、踩坑排查 | 快速定位问题、传递经验、提供临门一脚的建议 |
+| [`导师`](https://github.com/ybq22/supervisor) | 师生沟通辅助代理 | 开题汇报、论文反馈、方向讨论、邮件往来 | 研究问题澄清、汇报结构优化、沟通语气调整 |
+| [`师兄`](https://github.com/zhanghaichao520/senpai-skill) | 已毕业但灵魂仍在的救火型角色 | 环境配置、实验复现、截稿求助、踩坑排查 | 快速定位问题、传递经验、提供临门一脚的建议 |
 
 ### 蒸馏防御 🛡️
 
 | Skill | 角色定位 | 适用场景 | 核心能力 |
 | --- | --- | --- | --- |
-| [`反蒸馏.skill`](https://github.com/leilei926524-tech/anti-distill) | 面向不合规人格蒸馏的反制型防御代理 | 身份滥用识别、蒸馏风险提醒、边界声明、防护演练 | 强调授权与边界、阻断不合规蒸馏流程、辅助生成防御性回应 |
-| [`厉鬼.skill`](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | 带有威慑意味的反制人格代理 | 非授权复制预警、反制叙事、人格侵权场景表达 | 用更强烈的人格化方式强调拒绝、威慑违规使用者、放大边界意识 |
+| [`反蒸馏`](https://github.com/leilei926524-tech/anti-distill) | 面向不合规人格蒸馏的反制型防御代理 | 身份滥用识别、蒸馏风险提醒、边界声明、防护演练 | 强调授权与边界、阻断不合规蒸馏流程、辅助生成防御性回应 |
+| [`厉鬼`](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | 带有威慑意味的反制人格代理 | 非授权复制预警、反制叙事、人格侵权场景表达 | 用更强烈的人格化方式强调拒绝、威慑违规使用者、放大边界意识 |
 
 
 ## How To Contribute 🤝

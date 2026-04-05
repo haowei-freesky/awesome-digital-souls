@@ -48,37 +48,37 @@ So what this repository collects is not just project links, but also a set of qu
 
 | Skill | Role | Use Cases | Core Capabilities |
 | --- | --- | --- | --- |
-| [`同事.skill`](https://github.com/titanwings/colleague-skill) | The founding archetype of the whole series, your office sidekick | Daily communication, weekly reports, meeting recap, emotional buffering | Polishes messages, organizes tasks, fills in context, and simulates a colleague's perspective |
-| [`老板.skill`](https://github.com/nicepkg/boss-skill)<br/>[`老板.skill` by `vogtsw`](https://github.com/vogtsw/boss-skills) | A supervisor-perspective simulator | Upward reporting, promotion prep, salary negotiation, PUA detection | Pressure-tests goals, corrects expression, polishes reports, and flags risks |
+| [`Colleague`](https://github.com/titanwings/colleague-skill) | The founding archetype of the whole series, your office sidekick | Daily communication, weekly reports, meeting recap, emotional buffering | Polishes messages, organizes tasks, fills in context, and simulates a colleague's perspective |
+| [`Boss`](https://github.com/nicepkg/boss-skill)<br/>[`Boss` by `vogtsw`](https://github.com/vogtsw/boss-skills) | A supervisor-perspective simulator | Upward reporting, promotion prep, salary negotiation, PUA detection | Pressure-tests goals, corrects expression, polishes reports, and flags risks |
 
 ### Relationship Collection ❤️
 
 | Skill | Role | Use Cases | Core Capabilities |
 | --- | --- | --- | --- |
-| [`前任.skill`](https://github.com/titanwings/ex-skill) | A personal memory and emotional healing agent | Relationship retrospectives, farewell dialogues, emotional processing, memory archiving | Generates conversations, organizes memory fragments, and helps express regret and reconciliation |
-| [`暗恋对象.skill`](https://github.com/xiaoheizi8/crush-skills) | A projection target for ambiguous feelings and emotional compensation | Simulating a crush, self-rehearsal, unsent words, imagined relationships | Holds ambiguous emotions, generates dialogue snippets, and helps sort out affection and regret |
-| [`父母.skill`](https://github.com/xiaoheizi8/parents-skills) | A family-memory and emotional-support agent | Family conversations, intergenerational understanding, emotional soothing, family memory organization | Simulates parental responses, helps express care and longing, and distills family experience and ways of relating |
-| [`妈妈.skill`](https://github.com/jiangziyan-693/MamaSkill) | A more concrete mother-role companion agent | Daily venting, emotional comfort, life reminders, mother-child style conversations | Simulates the way a mother speaks, offers comfort and a sense of care, and receives everyday emotional needs |
+| [`Ex`](https://github.com/titanwings/ex-skill) | A personal memory and emotional healing agent | Relationship retrospectives, farewell dialogues, emotional processing, memory archiving | Generates conversations, organizes memory fragments, and helps express regret and reconciliation |
+| [`Crush`](https://github.com/xiaoheizi8/crush-skills) | A projection target for ambiguous feelings and emotional compensation | Simulating a crush, self-rehearsal, unsent words, imagined relationships | Holds ambiguous emotions, generates dialogue snippets, and helps sort out affection and regret |
+| [`Parents`](https://github.com/xiaoheizi8/parents-skills) | A family-memory and emotional-support agent | Family conversations, intergenerational understanding, emotional soothing, family memory organization | Simulates parental responses, helps express care and longing, and distills family experience and ways of relating |
+| [`Mama`](https://github.com/jiangziyan-693/MamaSkill) | A more concrete mother-role companion agent | Daily venting, emotional comfort, life reminders, mother-child style conversations | Simulates the way a mother speaks, offers comfort and a sense of care, and receives everyday emotional needs |
 
 ### Self-Dialogue 🪞
 
 | Skill | Role | Use Cases | Core Capabilities |
 | --- | --- | --- | --- |
-| [`自己.skills`](https://github.com/notdog1998/yourself-skill) | An inner-dialogue agent for self-reflection | Self-review, emotional sorting, value clarification, late-night solitude | Simulates self-conversation, helps organize thoughts, and distills personal experience and expression |
+| [`Self`](https://github.com/notdog1998/yourself-skill) | An inner-dialogue agent for self-reflection | Self-review, emotional sorting, value clarification, late-night solitude | Simulates self-conversation, helps organize thoughts, and distills personal experience and expression |
 
 ### Academic Collection 🎓
 
 | Skill | Role | Use Cases | Core Capabilities |
 | --- | --- | --- | --- |
-| [`导师.skill`](https://github.com/ybq22/supervisor) | A teacher-student communication support agent | Proposal presentations, paper feedback, research discussion, email exchanges | Clarifies research questions, improves presentation structure, and adjusts communication tone |
-| [`师兄.skill`](https://github.com/zhanghaichao520/senpai-skill) | A firefighting senior who has graduated but whose soul remains | Environment setup, experiment reproduction, deadline rescue, troubleshooting | Locates problems quickly, passes on hard-earned experience, and provides that last crucial push |
+| [`Supervisor`](https://github.com/ybq22/supervisor) | A teacher-student communication support agent | Proposal presentations, paper feedback, research discussion, email exchanges | Clarifies research questions, improves presentation structure, and adjusts communication tone |
+| [`Senpai`](https://github.com/zhanghaichao520/senpai-skill) | A firefighting senior who has graduated but whose soul remains | Environment setup, experiment reproduction, deadline rescue, troubleshooting | Locates problems quickly, passes on hard-earned experience, and provides that last crucial push |
 
 ### Distillation Defense 🛡️
 
 | Skill | Role | Use Cases | Core Capabilities |
 | --- | --- | --- | --- |
-| [`反蒸馏.skill`](https://github.com/leilei926524-tech/anti-distill) | A defensive agent for identifying and countering non-compliant persona distillation | Identity misuse detection, distillation risk warnings, boundary statements, defense drills | Emphasizes authorization and boundaries, interrupts non-compliant distillation workflows, and helps generate defensive responses |
-| [`厉鬼.skill`](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | A deterrence-oriented countermeasure persona | Warnings for unauthorized copying, counter-narratives, expression in persona infringement scenarios | Uses a more forceful persona to emphasize refusal, deter abusive users, and amplify boundary awareness |
+| [`Anti-distill`](https://github.com/leilei926524-tech/anti-distill) | A defensive agent for identifying and countering non-compliant persona distillation | Identity misuse detection, distillation risk warnings, boundary statements, defense drills | Emphasizes authorization and boundaries, interrupts non-compliant distillation workflows, and helps generate defensive responses |
+| [`Ghost`](https://github.com/Trailblazer-Aha/vengeful-ghost-skill) | A deterrence-oriented countermeasure persona | Warnings for unauthorized copying, counter-narratives, expression in persona infringement scenarios | Uses a more forceful persona to emphasize refusal, deter abusive users, and amplify boundary awareness |
 
 ## How To Contribute 🤝
 
