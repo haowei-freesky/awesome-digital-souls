@@ -15,6 +15,7 @@ If humanity has already reached the stage of "digital immortality," then maybe m
   - [Relationship Collection](#relationship-collection-)
   - [Self-Dialogue](#self-dialogue-)
   - [Academic Collection](#academic-collection-)
+  - [Cyber Celebrities](#cyber-celebrities-)
   - [Distillation Defense](#distillation-defense-)
 - [Skill Template](#skill-template-)
 - [How To Contribute](#how-to-contribute-)
@@ -60,12 +61,14 @@ So what this repository collects is not just project links, but also a set of qu
 | [`Crush`](https://github.com/xiaoheizi8/crush-skills) | A projection target for ambiguous feelings and emotional compensation | Simulating a crush, self-rehearsal, unsent words, imagined relationships | Holds ambiguous emotions, generates dialogue snippets, and helps sort out affection and regret |
 | [`Parents`](https://github.com/xiaoheizi8/parents-skills) | A family-memory and emotional-support agent | Family conversations, intergenerational understanding, emotional soothing, family memory organization | Simulates parental responses, helps express care and longing, and distills family experience and ways of relating |
 | [`Mama`](https://github.com/jiangziyan-693/MamaSkill) | A more concrete mother-role companion agent | Daily venting, emotional comfort, life reminders, mother-child style conversations | Simulates the way a mother speaks, offers comfort and a sense of care, and receives everyday emotional needs |
+| [`Reunion`](https://github.com/yangdongchen66-boop/reunion-skill) | A memory-reunion and emotional companionship agent for departed loved ones | Remembrance, unfinished conversations, emotional holding, memory archiving | Reconstructs a familiar conversational feeling from memory fragments and helps express longing, farewell, and the courage to keep living |
 
 ### Self-Dialogue 🪞
 
 | Skill | Role | Use Cases | Core Capabilities |
 | --- | --- | --- | --- |
 | [`Self`](https://github.com/notdog1998/yourself-skill) | An inner-dialogue agent for self-reflection | Self-review, emotional sorting, value clarification, late-night solitude | Simulates self-conversation, helps organize thoughts, and distills personal experience and expression |
+| [`Digital Life`](https://github.com/wildbyteai/digital-life) | A reflective skill suite for self-archaeology and persona profiling based on digital traces | Behavior review, self-knowledge calibration, digital-legacy organization, and long-term change tracking | Translates posts and platform behavior into a structured profile plus plain-language interpretation, with support for append-only updates, corrections, and rollback snapshots |
 
 ### Academic Collection 🎓
 
@@ -73,6 +76,13 @@ So what this repository collects is not just project links, but also a set of qu
 | --- | --- | --- | --- |
 | [`Supervisor`](https://github.com/ybq22/supervisor) | A teacher-student communication support agent | Proposal presentations, paper feedback, research discussion, email exchanges | Clarifies research questions, improves presentation structure, and adjusts communication tone |
 | [`Senpai`](https://github.com/zhanghaichao520/senpai-skill) | A firefighting senior who has graduated but whose soul remains | Environment setup, experiment reproduction, deadline rescue, troubleshooting | Locates problems quickly, passes on hard-earned experience, and provides that last crucial push |
+
+### Cyber Celebrities 🌟
+
+| Skill | Role | Use Cases | Core Capabilities |
+| --- | --- | --- | --- |
+| [`Fengge`](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | A fictionalized celebrity-perspective persona based on the "Fengge Wandering the World" voice | Commentary on relationship, career, and life dilemmas; jianghu-style riffs; travel-style narration | Leads with blunt conclusions, explains in plainspoken language, cuts through illusion with realism, and uses dark-humor reversals to suggest a next move |
+| [`Hu Chenfeng`](https://github.com/123pyLeo/hu-chen-feng-skill) | A Hu Chenfeng-style realist judgment persona centered on what is actually useful for ordinary people | Career choice, education investment, city relocation, home-buying decisions, platform monetization, and medical or traditional-medicine debates | Recomputes questions through real-world constraints, market structure, risk-return, substitutability, and evidence strength, with a focus on outcomes ordinary people can realistically realize |
 
 ### Distillation Defense 🛡️
 

@@ -15,6 +15,7 @@
   - [感情合集](#感情合集)
   - [自我对话](#自我对话)
   - [学术合集](#学术合集)
+  - [赛博名人](#赛博名人)
   - [蒸馏防御](#蒸馏防御)
 - [How To Contribute](#how-to-contribute)
 - [Acknowledgements](#acknowledgements)
@@ -120,6 +121,12 @@
       <td>日常倾诉、情绪安慰、生活提醒、母女母子式对话</td>
       <td>模拟妈妈式表达、提供安抚与照料感、承接日常情绪需求</td>
     </tr>
+    <tr>
+      <td width="20%" nowrap><a href="https://github.com/yangdongchen66-boop/reunion-skill">重逢</a></td>
+      <td>面向逝去亲友的记忆重逢与情感陪伴代理</td>
+      <td>缅怀想念、未竟对话、情绪安放、回忆归档</td>
+      <td>借助记忆片段重建熟悉的交流语感，辅助表达思念、告别与继续生活的勇气</td>
+    </tr>
   </tbody>
 </table>
 
@@ -148,6 +155,12 @@
       <td>面向自我反思的内在对话代理</td>
       <td>自我复盘、情绪整理、价值观澄清、深夜独处</td>
       <td>模拟自我对话、辅助梳理念头、沉淀个人经验与表达</td>
+    </tr>
+    <tr>
+      <td width="20%" nowrap><a href="https://github.com/wildbyteai/digital-life">数字人生</a></td>
+      <td>基于数字痕迹做自我考古与人格侧写的反思型 skill 套件</td>
+      <td>行为复盘、自我认知校准、数字遗产整理、长期变化追踪</td>
+      <td>把发言与平台行为翻译成结构化 Profile 和人话解读，支持追加、纠错、快照回滚</td>
     </tr>
   </tbody>
 </table>
@@ -183,6 +196,41 @@
       <td>已毕业但灵魂仍在的救火型角色</td>
       <td>环境配置、实验复现、截稿求助、踩坑排查</td>
       <td>快速定位问题、传递经验、提供临门一脚的建议</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
+### 赛博名人 🌟
+
+<table>
+  <colgroup>
+    <col width="20%">
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr>
+      <th width="20%" nowrap>Skill</th>
+      <th>角色定位</th>
+      <th>适用场景</th>
+      <th>核心能力</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="20%" nowrap><a href="https://github.com/rottenpen/fengge-wangmingtianya-perspective">峰哥</a></td>
+      <td>"这是个好事啊" persona</td>
+      <td>情感 / 职场 / 人生困惑点评、江湖味吐槽、旅途旁白</td>
+      <td>先下结论再大白话解释、现实主义去魅、用黑色幽默做反转劝世并给出下一步动作</td>
+    </tr>
+    <tr>
+      <td width="20%" nowrap><a href="https://github.com/123pyLeo/hu-chen-feng-skill">户晨风</a></td>
+      <td>“上安卓学校，找安卓工作，享安卓人生”</td>
+      <td>职业选择、教育投入、城市迁移、买房判断、平台与变现、医疗 / 中医争议</td>
+      <td>把问题压回现实约束、市场结构、回报风险、可替代性和证据强度里重算，优先看普通人的兑现率</td>
     </tr>
   </tbody>
 </table>
