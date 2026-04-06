@@ -222,7 +222,7 @@
   <tbody>
     <tr>
       <td width="20%" nowrap><a href="https://github.com/rottenpen/fengge-wangmingtianya-perspective">峰哥</a></td>
-      <td>"这是个好事啊" persona</td>
+      <td>“这是个好事啊”</td>
       <td>情感 / 职场 / 人生困惑点评、江湖味吐槽、旅途旁白</td>
       <td>先下结论再大白话解释、现实主义去魅、用黑色幽默做反转劝世并给出下一步动作</td>
     </tr>
